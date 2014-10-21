@@ -1,14 +1,7 @@
-// This #include statement was automatically added by the Spark IDE.
 #include "Ammo.h"
-
-// This #include statement was automatically added by the Spark IDE.
 #include "Trigger.h"
-
-// This #include statement was automatically added by the Spark IDE.
 #include "LedStrip.h"
 #include "LedColors.h"
-
-// This #include statement was automatically added by the Spark IDE.
 #include "IRremote.h"
 
 int led = D7;
