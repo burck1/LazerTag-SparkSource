@@ -1,0 +1,34 @@
+Spark
+    GND - power -
+    VIN - power +
+    D0 - NA
+    D1 - Trigger (resistor)
+    D2 - IR LED (data)
+    D3 - IR Receiver (data)
+    D4 - LED Strip 1 (data)
+    D5 - LED Strip 2 (data)
+    D6 - Piezo (+ red)
+
+Trigger
+    1 - COM - resistor - D1
+    2 - NC - GND
+    3 - NO - 3.3v
+
+IR LED
+    Data - D2
+    + - 5v
+    - - GND
+
+IR Receiver
+    Data - D3
+    + - 5v
+    - - GND
+
+LED Strips
+    Data - D4/D5
+    + - 5v
+    - - GND
+
+Piezo
+    + - D6
+    - - resistor - GND
